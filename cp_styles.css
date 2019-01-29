@@ -87,7 +87,6 @@ body>header>nav>ul>li>a {
     width: 100%;
 }
 
-
 /* Section Styles */
 
 body>section {
@@ -102,7 +101,6 @@ body>section {
 }
 
 /* Article Styles */
-
 body>section>article {
     display: -webkit-flex;
     display: flex;
